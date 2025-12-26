@@ -1,0 +1,11 @@
+[
+  {
+    "Path": "D:\\\\Backup",
+    "KeepDays": 30,
+    "Enabled": true,
+    "Extensions": ".bak;.zip",
+    "Recursive": true,
+    "MaxDepth": 0,
+    "DryRun": true
+  }
+]
